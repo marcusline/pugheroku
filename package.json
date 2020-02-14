@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/marcusline/pugheroku#readme",
   "dependencies": {
+    "newsapi": "^2.4.0",
     "pug": "2.0.4"
   }
 }
